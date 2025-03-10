@@ -1,6 +1,6 @@
 # 💰Crypto Dashboard 
 
-A web application built with FastAPI to fetch and visualize cryptocurrency data for Bitcoin, Ethereum, or other cryptocurrencies using CoinGecko's API. The app displays interactive price charts using Plotly.
+A web application built with FastAPI to fetch and visualize cryptocurrency data for Bitcoin, Ethereum, or other cryptocurrencies using CoinGecko's API. The app displays interactive price charts using Plotly. Currently, a simpler linear regression model is integrated into the software, which predicts tomorrows price for the cryptocurrency.
 
 ## 🪨Features 
 
